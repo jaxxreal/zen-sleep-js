@@ -1,0 +1,16 @@
+{
+  "name": "zen-sleep",
+  "version": "0.0.1",
+  "description": "Dependency-free promise-based sleeping.",
+  "keywords": [
+    "sleep",
+    "promise",
+    "no-dependencies"
+  ],
+  "license": "MIT",
+  "author": "Eugeny Voronin <r071xo@gmail.com>",
+  "files": [
+    "index.js"
+  ],
+  "repository": "jaxxreal/zen-sleep"
+}
