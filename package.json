@@ -1,5 +1,5 @@
 {
-  "name": "zen-sleep",
+  "name": "zen-sleep-js",
   "version": "0.0.1",
   "description": "Dependency-free promise-based sleeping.",
   "keywords": [
@@ -12,5 +12,5 @@
   "files": [
     "index.js"
   ],
-  "repository": "jaxxreal/zen-sleep"
+  "repository": "jaxxreal/zen-sleep-js"
 }
