@@ -1,4 +1,4 @@
-# zen-sleep-js
+# zen-sleep-js ![bundlephobia badge](https://img.shields.io/bundlephobia/minzip/zen-sleep-js.svg) ![downloads number](https://img.shields.io/npm/dt/zen-sleep-js.svg)
 
 Dependency-free promise-based sleeping.
 
